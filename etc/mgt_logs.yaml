@@ -1,0 +1,4 @@
+mgt_logs:
+  logfile_output_path: ../logs # path of logs
+  logfile_name: client.log # logname
+  logfile_max_length: 104857600 # max length in bytes before erasing
